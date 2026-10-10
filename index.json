@@ -1,0 +1,11 @@
+{
+  "org": "shadcn-ui",
+  "repo": "cn",
+  "versions": [
+    {
+      "commit": "c71bd53a351d99dca12f0808ea7e1c7134ec4945",
+      "tag": "",
+      "parsed_at": "2026-10-10T13:04:30.696562+00:00"
+    }
+  ]
+}
